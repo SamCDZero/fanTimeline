@@ -1,0 +1,33 @@
+img {
+    width: 35%;
+    height: 35%;
+}
+
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/196/771/745/retrowave-retrowave-purple-abstract-wallpaper-preview.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Satisfy', cursive;
+}
+
+h1 {
+    color: rgb(88, 47, 31);
+    text-align: center;
+}
+
+strong {
+    color: rgb(44, 44, 105);
+}
+
+p {
+    color: rgb(80, 98, 110);
+}
+
+h3 {
+    color: rgb(39, 70, 85);
+}
+
+li {
+    color: rgb(91, 154, 173);
+}
